@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@yopmail.com",
+    "phone_no": "8866223344",
+    "description": "I have a project in mind and want to discuss this project with you, so here i'm attaching my contact details."
+  },
+  {
+    "name": "Mike trex",
+    "email": "mike@yopmail.com",
+    "phone_no": "8862343344",
+    "description": "Lets connect and discuss."
+  },
+  {
+    "name": "Anny west",
+    "email": "anny@yopmail.com",
+    "phone_no": "8834563344",
+    "description": "Lets connect and discuss."
+  },
+  {
+    "name": "nick rohrbeck",
+    "email": "nick@yopmail.com",
+    "phone_no": "7865343344",
+    "description": "Lets connect and discuss."
+  }
+]
